@@ -15,6 +15,7 @@ Write code that is unit tested that will
 ## Part C – 2hrs
 * Draw a representation the following formula as a binary tree
 * Extend code developed in part A to allow the following expression to be evaluated
+
 > 4 + 2 * 3 / 2 evaluates to 7
 
 ## Part D – 5hrs
